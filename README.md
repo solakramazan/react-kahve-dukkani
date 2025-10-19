@@ -1,4 +1,4 @@
-# ☕ No48 Coffee Roasters - Fethiye Çalış Sahili
+# ☕ No48 Coffee Roasters - Fethiye
 
 > Uzun zaman ve emek sonucunda hazırlanan, Fethiye Çalış sahilindeki hayali bir kahve kavurma atölyesi için geliştirilmiş profesyonel bir web sitesi.
 
