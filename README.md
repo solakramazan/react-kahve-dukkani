@@ -220,12 +220,12 @@ Bu proje açık kaynak olarak geliştirilmiştir. Katkılarınızı bekliyoruz!
 ## 📧 İletişim
 
 Proje hakkında sorularınız için:
-- **E-posta:** merhaba@no48coffee.com.tr
-- **Telefon:** +90 252 000 48 48
-- **Konum:** Çalış Plajı, 1085. Sokak No:48, Fethiye/Muğla
+- **E-posta:** solakramazan48@gmail.com
+- **Web:** ramazansolak.com
 
 ---
 
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
 
 **Not:** Bu proje hayali bir işletme için oluşturulmuş bir konsept çalışmasıdır. No48 Coffee Roasters gerçek bir işletme değildir.
+           RamazanSolak 19.10.2025 
